@@ -29,12 +29,12 @@ The system detects and recognizes faces through a camera and automatically recor
 ## Project Structure
 
 Face-Recognition-Attendance-System/
-|
-|-- main.py
-|-- haarcascade_frontalface_default.xml
-|-- requirements.txt
-|-- README.md
-|-- .gitignore
+│
+├── Face_Recognition_Attendance.ipynb
+├── haarcascade_frontalface_default.xml
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ## Installation
 
