@@ -40,7 +40,7 @@ Face-Recognition-Attendance-System/
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/Face-Recognition-Attendance-System.git
+git clone https://github.com/Kaibalya24/Attendance-system-by-face-recognition-/tree/main
 
 Navigate to the project folder:
 
