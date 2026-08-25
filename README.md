@@ -28,11 +28,63 @@ The system detects and recognizes faces through a camera and automatically recor
 
 ## Project Structure
 
-```text
 Face-Recognition-Attendance-System/
-│
-├── main.py
-├── haarcascade_frontalface_default.xml
-├── requirements.txt
-├── README.md
-└── .gitignore
+|
+|-- main.py
+|-- haarcascade_frontalface_default.xml
+|-- requirements.txt
+|-- README.md
+|-- .gitignore
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/YOUR-USERNAME/Face-Recognition-Attendance-System.git
+
+Navigate to the project folder:
+
+cd Face-Recognition-Attendance-System
+
+Install the required Python libraries:
+
+pip install -r requirements.txt
+
+## How to Run
+
+Run the main Python file:
+
+python main.py
+
+The system will access the camera, detect faces, recognize registered users, and record their attendance.
+
+## Attendance
+
+The system records attendance information including:
+
+- Name
+- Date
+- Entry Time
+- Exit Time
+
+Attendance records are stored locally and are not included in this repository to protect personal information.
+
+## Privacy and Security
+
+For privacy and security reasons, personal face images, datasets, attendance records, trained model files, and camera credentials should not be uploaded to a public repository.
+
+## Future Improvements
+
+- Web-based attendance dashboard
+- Database integration
+- Email notifications
+- Improved face recognition accuracy
+- Cloud-based attendance storage
+- Admin login system
+- Attendance analytics
+
+## Author
+
+**Adhikari Kaibalya Dash**
+
+B.Tech Student
